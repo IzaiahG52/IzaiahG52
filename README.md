@@ -22,6 +22,7 @@ A wearable system that uses two ESP32s and an IMU to detect when a student's hea
 - Designing parts around real components and tolerances
 
 **Game development & modding**
+- Published Fortnite (UEFN) maps: 600,000+ players and 8M+ minutes played
 - UEFN (Unreal Editor for Fortnite) and Verse
 - Game logic, level and system design
 - Pixel art, sprite and texture work, audio editing
