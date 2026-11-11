@@ -5,7 +5,7 @@ Electrical Engineering student at **UCF**. I like building things, from embedded
 ## Featured project
 
 ### ⚡ [Zapatron](https://github.com/IzaiahG52/Zapatron)
-A wearable system that uses two ESP32s and an IMU to detect when a student's head drops in class and wirelessly triggers an external EMS unit. It runs on servos and rack-and-pinion actuators I modelled and 3D-printed myself. About 8 months of work, from CAD to firmware.
+A wearable system that uses two ESP32s and an IMU to detect when a student's head drops in class and wirelessly triggers an external EMS unit. It runs on servos driving 3D-printed linear actuators inside a custom-designed enclosure. About 8 months of work, from CAD to firmware.
 
 ## Skills
 
