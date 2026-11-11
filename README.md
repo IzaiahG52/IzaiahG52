@@ -1,0 +1,33 @@
+# Hi, I'm Izaiah 👋
+
+Electrical Engineering student at **UCF**. I like building things, from embedded hardware and custom 3D-printed parts to game mods and Fortnite (UEFN) maps.
+
+## Featured project
+
+### ⚡ [Zapatron](https://github.com/IzaiahG52/Zapatron)
+A wearable system that uses two ESP32s and an IMU to detect when a student's head drops in class and wirelessly triggers an external EMS unit. It runs on servos and rack-and-pinion actuators I modelled and 3D-printed myself. About 8 months of work, from CAD to firmware.
+
+## Skills
+
+**Electronics & embedded**
+- ESP32 / Arduino firmware in C++ (PlatformIO)
+- Sensor interfacing: I2C, MPU6050 IMU, pitch calculation from accelerometer data
+- Servo / PWM control and actuator design
+- Wireless communication: Bluetooth between microcontrollers, JSON messaging
+- Power design: battery selection, regulating voltage drop and avoiding brownouts
+- Breadboard prototyping, wiring, serial-monitor debugging
+
+**Design & fabrication**
+- CAD modelling and 3D printing (enclosures, fitted mounts, gears and racks)
+- Designing parts around real components and tolerances
+
+**Game development & modding**
+- UEFN (Unreal Editor for Fortnite) and Verse
+- Game logic, level and system design
+- Pixel art, sprite and texture work, audio editing
+
+## Creative projects
+- [Friday Night Nexus](https://github.com/IzaiahG52/Friday-Night-Nexus): FNF mod
+- [Baldi's Basics Repaint](https://github.com/IzaiahG52/Izaiahs-Baldis-Basics-Repaint)
+- [Deltarune Repaint](https://github.com/IzaiahG52/Izaiahs-Deltarune-Repaint)
+- [LittleBigTale (Undertale mod demo)](https://github.com/IzaiahG52/LittleBigTale-DEMO-)
