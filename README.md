@@ -28,7 +28,7 @@ A wearable system that uses two ESP32s and an IMU to detect when a student's hea
 - Pixel art, sprite and texture work, audio editing
 
 ## Creative projects
-- [Friday Night Nexus](https://github.com/IzaiahG52/Friday-Night-Nexus): FNF mod
-- [Baldi's Basics Repaint](https://github.com/IzaiahG52/Izaiahs-Baldis-Basics-Repaint)
-- [Deltarune Repaint](https://github.com/IzaiahG52/Izaiahs-Deltarune-Repaint)
-- [LittleBigTale (Undertale mod demo)](https://github.com/IzaiahG52/LittleBigTale-DEMO-)
+- [Friday Night Nexus](https://github.com/IzaiahG52/Friday-Night-Nexus) - Friday Night Funkin' mod
+- [Baldi's Basics Repaint](https://github.com/IzaiahG52/Izaiahs-Baldis-Basics-Repaint) - Baldi's Basics mod
+- [Deltarune Repaint](https://github.com/IzaiahG52/Izaiahs-Deltarune-Repaint) - Deltarune mod
+- [LittleBigTale](https://github.com/IzaiahG52/LittleBigTale-DEMO-) - Undertale mod demo
